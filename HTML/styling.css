@@ -1,3 +1,13 @@
 *{
     font-family: sans-serif;
-}
+
+    background-color: rgb(187, 183, 178);
+
+
+    max-width: 1024; 
+    
+} 
+.body { 
+    text-align: center;
+    border: 3px solid rgb(3, 3, 3);
+  }
